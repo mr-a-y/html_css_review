@@ -1,0 +1,24 @@
+span{
+    display: block; /*this make inline element to block level element */
+}
+
+div{
+    display: inline; /*this makes block level element into inline */
+}
+
+p{
+    display: inline-block; /* this is like a combantion of both wich it behaves like a inline 
+                               element but allows to put marding like a block level element */
+}
+
+
+/*margin is the space after the border */
+/*margin collapse is when you have the space between 2 elements and each got dif margin 
+the space between them is the not the sum of both margines of theres repects border 
+but in actuality the margin between them is equal to shich ever margin is bigger */
+
+/*padding is the space in the border */
+
+
+
+
